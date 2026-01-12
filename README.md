@@ -1,4 +1,4 @@
-# JNU Jaipur Login Portal
+
 
 A custom Flask-based login portal with in-memory user authentication.
 
